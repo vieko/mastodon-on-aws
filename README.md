@@ -6,7 +6,7 @@ The architecture consists of the following building blocks.
 
 * Application Load Balancer (ALB)
 * ECS and Fargate
-* RDS Aurora Serverless
+* RDS for Postgres
 * ElastiCache (Redis)
 * S3
 * SES
